@@ -19,4 +19,4 @@ This repo contains Karate Automation script that consist API and UI automation
 # to Install run API automation
 ```mvn test -Dkarate.options="--tags @api"```
 # to run API automation using docker
-```docker-compose up -build```
+```docker-compose up --build```
