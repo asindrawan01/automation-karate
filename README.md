@@ -14,9 +14,9 @@ This repo contains Karate Automation script that consist API and UI automation
  _| |_| |\  |____) |  | |/ ____ \| |____| |____ 
 |_____|_| \_|_____/   |_/_/    \_\______|______|
 ```
-# to Install & run UI automation
+# Install & run UI automation
 ```mvn test -Dkarate.options="--tags @ui"```
-# to Install run API automation
+# Install run API automation
 ```mvn test -Dkarate.options="--tags @api"```
-# to run API automation using docker
+# run API automation using docker
 ```docker-compose up --build```
