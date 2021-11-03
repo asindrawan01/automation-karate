@@ -10,3 +10,6 @@ INSERT INTO `people` (`name`, `age`, `adress`) VALUES ('Chandra', 23, 'Jakarta')
 INSERT INTO `people` (`name`, `age`, `adress`) VALUES ('Deni', 24, 'Bandung');
 INSERT INTO `people` (`name`, `age`, `adress`) VALUES ('Eka', null, 'Semarang');
 INSERT INTO `people` (`name`, `age`, `adress`) VALUES ('Fitrah', 21, 'Bali');
+INSERT INTO `people` (`name`, `age`, `adress`) VALUES ('Agus', null, 'Jakarta');
+INSERT INTO `people` (`name`, `age`, `adress`) VALUES ('Dedy', null, 'Jakarta');
+INSERT INTO `people` (`name`, `age`, `adress`) VALUES ('Iman', 10, 'Jakarta');
